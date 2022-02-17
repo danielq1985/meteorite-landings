@@ -15,19 +15,19 @@ SQL Data Cleaning
 	- YTD Count
 - Prep for Tableau
 	- Create View
-		-Name
-		-Id
-		-Recclass
-		-Classification (in plain english)
-		-Mass (grams)
-		-Mass (pounds)
-		-Fall
-		-Year
-		-Lat
-		-Long
-		-geolocation
-		-Location 
-		-YTD Count
+		- Name
+		- Id
+		- Recclass
+		- Classification (in plain english)
+		- Mass (grams)
+		- Mass (pounds)
+		- Fall
+		- Year
+		- Lat
+		- Long
+		- Geolocation
+		- Location 
+		- YTD Count
 
 
 ## Tableau Dashboard
