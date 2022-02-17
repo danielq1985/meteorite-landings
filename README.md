@@ -28,6 +28,7 @@ SQL Data Cleaning
 		- Geolocation
 		- Location 
 		- YTD Count
+- Create Tableau Dashboard
 
 
 ## Tableau Dashboard
